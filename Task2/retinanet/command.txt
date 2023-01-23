@@ -1,0 +1,1 @@
+keras_retinanet/bin/train.py --tensorboard-dir ../TrainingOutput --snapshot-path ../TrainingOutput/snapshots --random-transform --steps 100 pascal ../CranesVOC

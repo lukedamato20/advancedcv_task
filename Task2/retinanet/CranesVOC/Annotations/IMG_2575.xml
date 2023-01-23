@@ -1,0 +1,25 @@
+<annotation>
+	<folder>advancedcv-crane-detection</folder>
+	<filename>IMG_2575.jpg</filename>
+	<path>/advancedcv-crane-detection/IMG_2575.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Crane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2064</xmin>
+			<ymin>2089</ymin>
+			<xmax>2351</xmax>
+			<ymax>2266</ymax>
+		</bndbox>
+	</object>
+</annotation>
